@@ -95,7 +95,7 @@ function App() {
       <Header>
         <AppName>
           <MovieImage src="/react-movie-app/movie-icon.svg" />
-          React Movie App
+          Movie Search App
         </AppName>
         <SearchBox>
           <SearchIcon src="/react-movie-app/search-icon.svg" />
